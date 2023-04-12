@@ -1,0 +1,532 @@
+Could not open input file: bin/console
+Could not open input file: bin/console
+Could not open input file: bin/console
+[Thu Mar 30 11:44:05 2023] PHP 8.1.17 Development Server (http://0.0.0.0:8000) started
+[Thu Mar 30 11:44:17 2023] 172.20.0.1:41162 Accepted
+[Thu Mar 30 11:44:17 2023] 172.20.0.1:41166 Accepted
+[Thu Mar 30 11:44:17 2023] 172.20.0.1:41162 [200]: GET /
+[Thu Mar 30 11:44:17 2023] 172.20.0.1:41162 Closing
+[Thu Mar 30 11:44:17 2023] 172.20.0.1:41166 [200]: GET /robots.txt
+[Thu Mar 30 11:44:17 2023] 172.20.0.1:41166 Closing
+[Thu Mar 30 11:45:13 2023] 172.20.0.1:32796 Accepted
+[Thu Mar 30 11:45:13 2023] 172.20.0.1:32798 Accepted
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32796 [200]: GET /
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32796 Closing
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32798 [200]: GET /robots.txt
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32798 Closing
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32804 Accepted
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32806 Accepted
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32804 [200]: GET /
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32804 Closing
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32806 [200]: GET /robots.txt
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32806 Closing
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32820 Accepted
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32834 Accepted
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32820 [200]: GET /
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32820 Closing
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32834 [200]: GET /robots.txt
+[Thu Mar 30 11:45:14 2023] 172.20.0.1:32834 Closing
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32838 Accepted
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32844 Accepted
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32838 [200]: GET /
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32838 Closing
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32844 [200]: GET /robots.txt
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32844 Closing
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32856 Accepted
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32870 Accepted
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32856 [200]: GET /
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32856 Closing
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32870 [200]: GET /robots.txt
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32870 Closing
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32874 Accepted
+[Thu Mar 30 11:45:15 2023] 172.20.0.1:32876 Accepted
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32874 [200]: GET /
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32874 Closing
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32876 [200]: GET /robots.txt
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32876 Closing
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32890 Accepted
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32904 Accepted
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32890 [200]: GET /
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32890 Closing
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32904 [200]: GET /robots.txt
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32904 Closing
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32906 Accepted
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32918 Accepted
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32906 [200]: GET /
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32906 Closing
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32918 [200]: GET /robots.txt
+[Thu Mar 30 11:45:16 2023] 172.20.0.1:32918 Closing
+[Thu Mar 30 11:45:21 2023] 172.20.0.1:47082 Accepted
+[Thu Mar 30 11:45:21 2023] 172.20.0.1:47088 Accepted
+[Thu Mar 30 11:45:21 2023] 172.20.0.1:47082 [200]: GET /
+[Thu Mar 30 11:45:21 2023] 172.20.0.1:47082 Closing
+[Thu Mar 30 11:45:21 2023] 172.20.0.1:47088 [200]: GET /robots.txt
+[Thu Mar 30 11:45:21 2023] 172.20.0.1:47088 Closing
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47102 Accepted
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47112 Accepted
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47102 [200]: GET /
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47102 Closing
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47112 [200]: GET /robots.txt
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47112 Closing
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47114 Accepted
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47126 Accepted
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47114 [200]: GET /
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47114 Closing
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47126 [200]: GET /robots.txt
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47126 Closing
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47138 Accepted
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47140 Accepted
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47138 [200]: GET /
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47138 Closing
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47140 [200]: GET /robots.txt
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47140 Closing
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47150 Accepted
+[Thu Mar 30 11:45:22 2023] 172.20.0.1:47166 Accepted
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47150 [200]: GET /
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47150 Closing
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47166 [200]: GET /robots.txt
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47166 Closing
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47170 Accepted
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47184 Accepted
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47170 [200]: GET /
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47170 Closing
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47184 [200]: GET /robots.txt
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47184 Closing
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47198 Accepted
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47214 Accepted
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47198 [200]: GET /
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47198 Closing
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47214 [200]: GET /robots.txt
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47214 Closing
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47230 Accepted
+[Thu Mar 30 11:45:23 2023] 172.20.0.1:47240 Accepted
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47230 [200]: GET /
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47230 Closing
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47240 [200]: GET /robots.txt
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47240 Closing
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47252 Accepted
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47268 Accepted
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47252 [200]: GET /
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47252 Closing
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47268 [200]: GET /robots.txt
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47268 Closing
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47280 Accepted
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47296 Accepted
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47280 [200]: GET /
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47280 Closing
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47296 [200]: GET /robots.txt
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47296 Closing
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47312 Accepted
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47324 Accepted
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47312 [200]: GET /
+[Thu Mar 30 11:45:24 2023] 172.20.0.1:47312 Closing
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47324 [200]: GET /robots.txt
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47324 Closing
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47340 Accepted
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47356 Accepted
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47356 [200]: GET /
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47356 Closing
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47340 [200]: GET /robots.txt
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47340 Closing
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47360 Accepted
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47370 Accepted
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47360 [200]: GET /
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47360 Closing
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47370 [200]: GET /robots.txt
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47370 Closing
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47380 Accepted
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47396 Accepted
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47380 [200]: GET /
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47380 Closing
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47396 [200]: GET /robots.txt
+[Thu Mar 30 11:45:25 2023] 172.20.0.1:47396 Closing
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47412 Accepted
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47418 Accepted
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47412 [200]: GET /
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47412 Closing
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47418 [200]: GET /robots.txt
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47418 Closing
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47422 Accepted
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47432 Accepted
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47422 [200]: GET /
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47422 Closing
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47432 [200]: GET /robots.txt
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47432 Closing
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47436 Accepted
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47450 Accepted
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47436 [200]: GET /
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47436 Closing
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47450 [200]: GET /robots.txt
+[Thu Mar 30 11:45:26 2023] 172.20.0.1:47450 Closing
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47456 Accepted
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47460 Accepted
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47456 [200]: GET /
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47456 Closing
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47460 [200]: GET /robots.txt
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47460 Closing
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47470 Accepted
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47474 Accepted
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47470 [200]: GET /
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47470 Closing
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47474 [200]: GET /robots.txt
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:47474 Closing
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:33660 Accepted
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:33664 Accepted
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:33660 [200]: GET /
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:33660 Closing
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:33664 [200]: GET /robots.txt
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:33664 Closing
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:33676 Accepted
+[Thu Mar 30 11:45:27 2023] 172.20.0.1:33684 Accepted
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33676 [200]: GET /
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33676 Closing
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33684 [200]: GET /robots.txt
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33684 Closing
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33700 Accepted
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33710 Accepted
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33700 [200]: GET /
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33700 Closing
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33710 [200]: GET /robots.txt
+[Thu Mar 30 11:45:28 2023] 172.20.0.1:33710 Closing
+[Thu Mar 30 11:45:43 2023] 172.20.0.1:57612 Accepted
+[Thu Mar 30 11:45:43 2023] 172.20.0.1:57614 Accepted
+[Thu Mar 30 11:45:43 2023] 172.20.0.1:57612 [200]: GET /
+[Thu Mar 30 11:45:43 2023] 172.20.0.1:57612 Closing
+[Thu Mar 30 11:45:43 2023] 172.20.0.1:57614 [200]: GET /robots.txt
+[Thu Mar 30 11:45:43 2023] 172.20.0.1:57614 Closing
+[Thu Mar 30 11:45:43 2023] 172.20.0.1:57642 Accepted
+[Thu Mar 30 11:45:43 2023] 172.20.0.1:57654 Accepted
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57642 [200]: GET /
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57642 Closing
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57654 [200]: GET /robots.txt
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57654 Closing
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57656 Accepted
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57666 Accepted
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57656 [200]: GET /
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57656 Closing
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57666 [200]: GET /robots.txt
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57666 Closing
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57668 Accepted
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57676 Accepted
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57668 [200]: GET /
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57668 Closing
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57676 [200]: GET /robots.txt
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57676 Closing
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57682 Accepted
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57690 Accepted
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57682 [200]: GET /
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57682 Closing
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57690 [200]: GET /robots.txt
+[Thu Mar 30 11:45:44 2023] 172.20.0.1:57690 Closing
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57692 Accepted
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57708 Accepted
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57692 [200]: GET /
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57692 Closing
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57708 [200]: GET /robots.txt
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57708 Closing
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57716 Accepted
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57724 Accepted
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57716 [200]: GET /
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57716 Closing
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57724 [200]: GET /robots.txt
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57724 Closing
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57736 Accepted
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57738 Accepted
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57736 [200]: GET /
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57736 Closing
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57738 [200]: GET /robots.txt
+[Thu Mar 30 11:45:45 2023] 172.20.0.1:57738 Closing
+[Thu Mar 30 11:47:43 2023] 172.20.0.1:35528 Accepted
+[Thu Mar 30 11:47:43 2023] 172.20.0.1:35532 Accepted
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35528 [200]: GET /
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35528 Closing
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35532 [200]: GET /robots.txt
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35532 Closing
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35546 Accepted
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35554 Accepted
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35546 [200]: GET /
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35546 Closing
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35554 [200]: GET /robots.txt
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35554 Closing
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35568 Accepted
+[Thu Mar 30 11:47:44 2023] 172.20.0.1:35572 Accepted
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35568 [200]: GET /
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35568 Closing
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35572 [200]: GET /robots.txt
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35572 Closing
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35576 Accepted
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35586 Accepted
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35576 [200]: GET /
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35576 Closing
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35586 [200]: GET /robots.txt
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35586 Closing
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35602 Accepted
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35604 Accepted
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35602 [200]: GET /
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35602 Closing
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35604 [200]: GET /robots.txt
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35604 Closing
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35614 Accepted
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35626 Accepted
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35614 [200]: GET /
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35614 Closing
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35626 [200]: GET /robots.txt
+[Thu Mar 30 11:47:45 2023] 172.20.0.1:35626 Closing
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35636 Accepted
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35638 Accepted
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35636 [200]: GET /
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35636 Closing
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35638 [200]: GET /robots.txt
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35638 Closing
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35644 Accepted
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35648 Accepted
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35644 [200]: GET /
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35644 Closing
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35648 [200]: GET /robots.txt
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35648 Closing
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35652 Accepted
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35660 Accepted
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35652 [200]: GET /
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35652 Closing
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35660 [200]: GET /robots.txt
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35660 Closing
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35676 Accepted
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35686 Accepted
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35676 [200]: GET /
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35676 Closing
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35686 [200]: GET /robots.txt
+[Thu Mar 30 11:47:46 2023] 172.20.0.1:35686 Closing
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35698 Accepted
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35710 Accepted
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35698 [200]: GET /
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35698 Closing
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35710 [200]: GET /robots.txt
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35710 Closing
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35726 Accepted
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35740 Accepted
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35740 [200]: GET /
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35740 Closing
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35726 [200]: GET /robots.txt
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:35726 Closing
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:49884 Accepted
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:49898 Accepted
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:49884 [200]: GET /
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:49884 Closing
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:49898 [200]: GET /robots.txt
+[Thu Mar 30 11:47:47 2023] 172.20.0.1:49898 Closing
+[Thu Mar 30 11:48:56 2023] 172.20.0.1:42756 Accepted
+[Thu Mar 30 11:48:56 2023] 172.20.0.1:42766 Accepted
+[Thu Mar 30 11:48:56 2023] 172.20.0.1:42756 [200]: GET /
+[Thu Mar 30 11:48:56 2023] 172.20.0.1:42756 Closing
+[Thu Mar 30 11:48:56 2023] 172.20.0.1:42766 [200]: GET /robots.txt
+[Thu Mar 30 11:48:56 2023] 172.20.0.1:42766 Closing
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:42782 Accepted
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:42784 Accepted
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:42782 [200]: GET /
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:42782 Closing
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:42784 [200]: GET /robots.txt
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:42784 Closing
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:53000 Accepted
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:53002 Accepted
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:53000 [200]: GET /
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:53000 Closing
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:53002 [200]: GET /robots.txt
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:53002 Closing
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:53004 Accepted
+[Thu Mar 30 11:48:57 2023] 172.20.0.1:53020 Accepted
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53004 [200]: GET /
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53004 Closing
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53020 [200]: GET /robots.txt
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53020 Closing
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53034 Accepted
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53046 Accepted
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53034 [200]: GET /
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53034 Closing
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53046 [200]: GET /robots.txt
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53046 Closing
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53050 Accepted
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53066 Accepted
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53050 [200]: GET /
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53050 Closing
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53066 [200]: GET /robots.txt
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53066 Closing
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53078 Accepted
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53092 Accepted
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53078 [200]: GET /
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53078 Closing
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53092 [200]: GET /robots.txt
+[Thu Mar 30 11:48:58 2023] 172.20.0.1:53092 Closing
+[Thu Mar 30 11:48:59 2023] 172.20.0.1:53106 Accepted
+[Thu Mar 30 11:48:59 2023] 172.20.0.1:53110 Accepted
+[Thu Mar 30 11:48:59 2023] 172.20.0.1:53106 [200]: GET /
+[Thu Mar 30 11:48:59 2023] 172.20.0.1:53106 Closing
+[Thu Mar 30 11:48:59 2023] 172.20.0.1:53110 [200]: GET /robots.txt
+[Thu Mar 30 11:48:59 2023] 172.20.0.1:53110 Closing
+[Thu Mar 30 11:49:02 2023] 172.20.0.1:53112 Accepted
+[Thu Mar 30 11:49:02 2023] 172.20.0.1:53124 Accepted
+[Thu Mar 30 11:49:02 2023] 172.20.0.1:53112 [200]: GET /
+[Thu Mar 30 11:49:02 2023] 172.20.0.1:53112 Closing
+[Thu Mar 30 11:49:02 2023] 172.20.0.1:53124 [200]: GET /robots.txt
+[Thu Mar 30 11:49:02 2023] 172.20.0.1:53124 Closing
+[Thu Mar 30 11:49:02 2023] 172.20.0.1:53146 Accepted
+[Thu Mar 30 11:49:02 2023] 172.20.0.1:53140 Accepted
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53140 [200]: GET /
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53140 Closing
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53146 [200]: GET /robots.txt
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53146 Closing
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53150 Accepted
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53166 Accepted
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53150 [200]: GET /
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53150 Closing
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53166 [200]: GET /robots.txt
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53166 Closing
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53176 Accepted
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53184 Accepted
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53176 [200]: GET /
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53176 Closing
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53184 [200]: GET /robots.txt
+[Thu Mar 30 11:49:03 2023] 172.20.0.1:53184 Closing
+[Thu Mar 30 11:49:04 2023] 172.20.0.1:53200 Accepted
+[Thu Mar 30 11:49:04 2023] 172.20.0.1:53208 Accepted
+[Thu Mar 30 11:49:04 2023] 172.20.0.1:53200 [200]: GET /
+[Thu Mar 30 11:49:04 2023] 172.20.0.1:53200 Closing
+[Thu Mar 30 11:49:04 2023] 172.20.0.1:53208 [200]: GET /robots.txt
+[Thu Mar 30 11:49:04 2023] 172.20.0.1:53208 Closing
+[Thu Mar 30 11:51:09 2023] 172.20.0.1:49118 Accepted
+[Thu Mar 30 11:51:09 2023] 172.20.0.1:49120 Accepted
+[Thu Mar 30 11:51:09 2023] 172.20.0.1:49118 [200]: GET /
+[Thu Mar 30 11:51:09 2023] 172.20.0.1:49118 Closing
+[Thu Mar 30 11:51:09 2023] 172.20.0.1:49120 [200]: GET /robots.txt
+[Thu Mar 30 11:51:09 2023] 172.20.0.1:49120 Closing
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49124 Accepted
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49138 Accepted
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49124 [200]: GET /
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49124 Closing
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49138 [200]: GET /robots.txt
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49138 Closing
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49148 Accepted
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49150 Accepted
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49148 [200]: GET /
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49148 Closing
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49150 [200]: GET /robots.txt
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49150 Closing
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49156 Accepted
+[Thu Mar 30 11:51:10 2023] 172.20.0.1:49164 Accepted
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49156 [200]: GET /
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49156 Closing
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49164 [200]: GET /robots.txt
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49164 Closing
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49172 Accepted
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49178 Accepted
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49172 [200]: GET /
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49172 Closing
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49178 [200]: GET /robots.txt
+[Thu Mar 30 11:51:11 2023] 172.20.0.1:49178 Closing
+[Thu Mar 30 11:51:12 2023] 172.20.0.1:49180 Accepted
+[Thu Mar 30 11:51:12 2023] 172.20.0.1:49192 Accepted
+[Thu Mar 30 11:51:12 2023] 172.20.0.1:49180 [200]: GET /
+[Thu Mar 30 11:51:12 2023] 172.20.0.1:49180 Closing
+[Thu Mar 30 11:51:13 2023] 172.20.0.1:49192 [200]: GET /robots.txt
+[Thu Mar 30 11:51:13 2023] 172.20.0.1:49192 Closing
+[Thu Mar 30 11:51:14 2023] 172.20.0.1:49194 Accepted
+[Thu Mar 30 11:51:14 2023] 172.20.0.1:49194 [200]: GET /favicon.ico
+[Thu Mar 30 11:51:14 2023] 172.20.0.1:49194 Closing
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:49196 Accepted
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:49210 Accepted
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:49196 [200]: GET /
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:49196 Closing
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:49210 [200]: GET /robots.txt
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:49210 Closing
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:34356 Accepted
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:34356 [200]: GET /favicon.ico
+[Thu Mar 30 11:51:17 2023] 172.20.0.1:34356 Closing
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34362 Accepted
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34378 Accepted
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34362 [200]: GET /
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34362 Closing
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34378 [200]: GET /robots.txt
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34378 Closing
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34390 Accepted
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34390 [200]: GET /favicon.ico
+[Thu Mar 30 11:51:18 2023] 172.20.0.1:34390 Closing
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34404 Accepted
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34412 Accepted
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34404 [200]: GET /
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34404 Closing
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34412 [200]: GET /robots.txt
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34412 Closing
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34416 Accepted
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34416 [200]: GET /favicon.ico
+[Thu Mar 30 11:51:22 2023] 172.20.0.1:34416 Closing
+[Thu Mar 30 11:51:25 2023] 172.20.0.1:34422 Accepted
+[Thu Mar 30 12:02:40 2023] Failed to listen on 0.0.0.0:8000 (reason: Address already in use)
+[Thu Mar 30 12:06:26 2023] PHP 8.1.17 Development Server (http://0.0.0.0:8000) started
+[Thu Mar 30 12:06:33 2023] 172.20.0.1:60074 Accepted
+[Thu Mar 30 12:06:33 2023] 172.20.0.1:60078 Accepted
+[Thu Mar 30 12:06:33 2023] 172.20.0.1:60074 [200]: GET /
+[Thu Mar 30 12:06:33 2023] 172.20.0.1:60074 Closing
+[Thu Mar 30 12:06:33 2023] 172.20.0.1:60078 [200]: GET /robots.txt
+[Thu Mar 30 12:06:33 2023] 172.20.0.1:60078 Closing
+[Thu Mar 30 12:06:34 2023] 172.20.0.1:60084 Accepted
+[Thu Mar 30 12:06:34 2023] 172.20.0.1:60092 Accepted
+[Thu Mar 30 12:06:34 2023] 172.20.0.1:60084 [200]: GET /
+[Thu Mar 30 12:06:34 2023] 172.20.0.1:60084 Closing
+[Thu Mar 30 12:06:34 2023] 172.20.0.1:60092 [200]: GET /robots.txt
+[Thu Mar 30 12:06:34 2023] 172.20.0.1:60092 Closing
+[Thu Mar 30 12:06:54 2023] 172.20.0.1:47926 Accepted
+[Thu Mar 30 12:06:54 2023] 172.20.0.1:47940 Accepted
+[Thu Mar 30 12:06:54 2023] 172.20.0.1:47926 [200]: GET /
+[Thu Mar 30 12:06:54 2023] 172.20.0.1:47926 Closing
+[Thu Mar 30 12:06:54 2023] 172.20.0.1:47940 [200]: GET /robots.txt
+[Thu Mar 30 12:06:54 2023] 172.20.0.1:47940 Closing
+Error in argument 3, char 2: option not found y
+Usage: php [options] [-f] <file> [--] [args...]
+   php [options] -r <code> [--] [args...]
+   php [options] [-B <begin_code>] -R <code> [-E <end_code>] [--] [args...]
+   php [options] [-B <begin_code>] -F <file> [-E <end_code>] [--] [args...]
+   php [options] -S <addr>:<port> [-t docroot] [router]
+   php [options] -- [args...]
+   php [options] -a
+
+  -a               Run as interactive shell (requires readline extension)
+  -c <path>|<file> Look for php.ini file in this directory
+  -n               No configuration (ini) files will be used
+  -d foo[=bar]     Define INI entry foo with value 'bar'
+  -e               Generate extended information for debugger/profiler
+  -f <file>        Parse and execute <file>.
+  -h               This help
+  -i               PHP information
+  -l               Syntax check only (lint)
+  -m               Show compiled in modules
+  -r <code>        Run PHP <code> without using script tags <?..?>
+  -B <begin_code>  Run PHP <begin_code> before processing input lines
+  -R <code>        Run PHP <code> for every input line
+  -F <file>        Parse and execute <file> for every input line
+  -E <end_code>    Run PHP <end_code> after processing all input lines
+  -H               Hide any passed arguments from external tools.
+  -S <addr>:<port> Run with built-in web server.
+  -t <docroot>     Specify document root <docroot> for built-in web server.
+  -s               Output HTML syntax highlighted source.
+  -v               Version number
+  -w               Output source with stripped comments and whitespace.
+  -z <file>        Load Zend extension <file>.
+
+  args...          Arguments passed to script. Use -- args when first argument
+                   starts with - or script is read from stdin
+
+  --ini            Show configuration file names
+
+  --rf <name>      Show information about function <name>.
+  --rc <name>      Show information about class <name>.
+  --re <name>      Show information about extension <name>.
+  --rz <name>      Show information about Zend extension <name>.
+  --ri <name>      Show configuration for extension <name>.
+
+[Thu Mar 30 12:10:01 2023] PHP 8.1.17 Development Server (http://0.0.0.0:8000) started
+[Thu Mar 30 12:10:36 2023] PHP 8.1.17 Development Server (http://0.0.0.0:8000) started
+[Thu Mar 30 12:10:39 2023] 172.20.0.1:44022 Accepted
+[Thu Mar 30 12:10:39 2023] 172.20.0.1:44036 Accepted
+[Thu Mar 30 12:10:39 2023] 172.20.0.1:44022 [200]: GET /
+[Thu Mar 30 12:10:39 2023] 172.20.0.1:44022 Closing
+[Thu Mar 30 12:10:39 2023] 172.20.0.1:44036 [200]: GET /robots.txt
+[Thu Mar 30 12:10:39 2023] 172.20.0.1:44036 Closing

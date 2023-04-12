@@ -1,0 +1,348 @@
+Could not open input file: php
+[Thu Mar 30 11:57:59 2023] PHP 8.1.17 Development Server (http://0.0.0.0:8000) started
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41774 Accepted
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41780 Accepted
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41774 [404]: GET / - No such file or directory
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41774 Closing
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41780 [404]: GET /robots.txt - No such file or directory
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41780 Closing
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41784 Accepted
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41784 [404]: GET /favicon.ico - No such file or directory
+[Thu Mar 30 11:58:21 2023] 172.20.0.1:41784 Closing
+[Thu Mar 30 11:58:22 2023] 172.20.0.1:41792 Accepted
+[Thu Mar 30 11:58:22 2023] 172.20.0.1:41800 Accepted
+[Thu Mar 30 11:58:22 2023] 172.20.0.1:41792 [404]: GET / - No such file or directory
+[Thu Mar 30 11:58:22 2023] 172.20.0.1:41792 Closing
+[Thu Mar 30 11:58:22 2023] 172.20.0.1:41800 [404]: GET /robots.txt - No such file or directory
+[Thu Mar 30 11:58:22 2023] 172.20.0.1:41800 Closing
+Error in argument 3, char 2: no argument for option d
+Usage: php [options] [-f] <file> [--] [args...]
+   php [options] -r <code> [--] [args...]
+   php [options] [-B <begin_code>] -R <code> [-E <end_code>] [--] [args...]
+   php [options] [-B <begin_code>] -F <file> [-E <end_code>] [--] [args...]
+   php [options] -S <addr>:<port> [-t docroot] [router]
+   php [options] -- [args...]
+   php [options] -a
+
+  -a               Run as interactive shell (requires readline extension)
+  -c <path>|<file> Look for php.ini file in this directory
+  -n               No configuration (ini) files will be used
+  -d foo[=bar]     Define INI entry foo with value 'bar'
+  -e               Generate extended information for debugger/profiler
+  -f <file>        Parse and execute <file>.
+  -h               This help
+  -i               PHP information
+  -l               Syntax check only (lint)
+  -m               Show compiled in modules
+  -r <code>        Run PHP <code> without using script tags <?..?>
+  -B <begin_code>  Run PHP <begin_code> before processing input lines
+  -R <code>        Run PHP <code> for every input line
+  -F <file>        Parse and execute <file> for every input line
+  -E <end_code>    Run PHP <end_code> after processing all input lines
+  -H               Hide any passed arguments from external tools.
+  -S <addr>:<port> Run with built-in web server.
+  -t <docroot>     Specify document root <docroot> for built-in web server.
+  -s               Output HTML syntax highlighted source.
+  -v               Version number
+  -w               Output source with stripped comments and whitespace.
+  -z <file>        Load Zend extension <file>.
+
+  args...          Arguments passed to script. Use -- args when first argument
+                   starts with - or script is read from stdin
+
+  --ini            Show configuration file names
+
+  --rf <name>      Show information about function <name>.
+  --rc <name>      Show information about class <name>.
+  --re <name>      Show information about extension <name>.
+  --rz <name>      Show information about Zend extension <name>.
+  --ri <name>      Show configuration for extension <name>.
+
+Usage: php [options] [-f] <file> [--] [args...]
+   php [options] -r <code> [--] [args...]
+   php [options] [-B <begin_code>] -R <code> [-E <end_code>] [--] [args...]
+   php [options] [-B <begin_code>] -F <file> [-E <end_code>] [--] [args...]
+   php [options] -S <addr>:<port> [-t docroot] [router]
+   php [options] -- [args...]
+   php [options] -a
+
+  -a               Run as interactive shell (requires readline extension)
+  -c <path>|<file> Look for php.ini file in this directory
+  -n               No configuration (ini) files will be used
+  -d foo[=bar]     Define INI entry foo with value 'bar'
+  -e               Generate extended information for debugger/profiler
+  -f <file>        Parse and execute <file>.
+  -h               This help
+  -i               PHP information
+  -l               Syntax check only (lint)
+  -m               Show compiled in modules
+  -r <code>        Run PHP <code> without using script tags <?..?>
+  -B <begin_code>  Run PHP <begin_code> before processing input lines
+  -R <code>        Run PHP <code> for every input line
+  -F <file>        Parse and execute <file> for every input line
+  -E <end_code>    Run PHP <end_code> after processing all input lines
+  -H               Hide any passed arguments from external tools.
+  -S <addr>:<port> Run with built-in web server.
+  -t <docroot>     Specify document root <docroot> for built-in web server.
+  -s               Output HTML syntax highlighted source.
+  -v               Version number
+  -w               Output source with stripped comments and whitespace.
+  -z <file>        Load Zend extension <file>.
+
+  args...          Arguments passed to script. Use -- args when first argument
+                   starts with - or script is read from stdin
+
+  --ini            Show configuration file names
+
+  --rf <name>      Show information about function <name>.
+  --rc <name>      Show information about class <name>.
+  --re <name>      Show information about extension <name>.
+  --rz <name>      Show information about Zend extension <name>.
+  --ri <name>      Show configuration for extension <name>.
+
+Usage: php [options] [-f] <file> [--] [args...]
+   php [options] -r <code> [--] [args...]
+   php [options] [-B <begin_code>] -R <code> [-E <end_code>] [--] [args...]
+   php [options] [-B <begin_code>] -F <file> [-E <end_code>] [--] [args...]
+   php [options] -S <addr>:<port> [-t docroot] [router]
+   php [options] -- [args...]
+   php [options] -a
+
+  -a               Run as interactive shell (requires readline extension)
+  -c <path>|<file> Look for php.ini file in this directory
+  -n               No configuration (ini) files will be used
+  -d foo[=bar]     Define INI entry foo with value 'bar'
+  -e               Generate extended information for debugger/profiler
+  -f <file>        Parse and execute <file>.
+  -h               This help
+  -i               PHP information
+  -l               Syntax check only (lint)
+  -m               Show compiled in modules
+  -r <code>        Run PHP <code> without using script tags <?..?>
+  -B <begin_code>  Run PHP <begin_code> before processing input lines
+  -R <code>        Run PHP <code> for every input line
+  -F <file>        Parse and execute <file> for every input line
+  -E <end_code>    Run PHP <end_code> after processing all input lines
+  -H               Hide any passed arguments from external tools.
+  -S <addr>:<port> Run with built-in web server.
+  -t <docroot>     Specify document root <docroot> for built-in web server.
+  -s               Output HTML syntax highlighted source.
+  -v               Version number
+  -w               Output source with stripped comments and whitespace.
+  -z <file>        Load Zend extension <file>.
+
+  args...          Arguments passed to script. Use -- args when first argument
+                   starts with - or script is read from stdin
+
+  --ini            Show configuration file names
+
+  --rf <name>      Show information about function <name>.
+  --rc <name>      Show information about class <name>.
+  --re <name>      Show information about extension <name>.
+  --rz <name>      Show information about Zend extension <name>.
+  --ri <name>      Show configuration for extension <name>.
+
+[Thu Mar 30 12:00:31 2023] PHP 8.1.17 Development Server (http://0.0.0.0:8000) started
+[Thu Mar 30 12:00:49 2023] PHP 8.1.17 Development Server (http://0.0.0.0:8000) started
+[Thu Mar 30 12:01:10 2023] PHP 8.1.17 Development Server (http://0.0.0.0:8000) started
+[Thu Mar 30 12:01:32 2023] Failed to listen on 0.0.0.0:8000 (reason: Address already in use)
+[Thu Mar 30 12:01:42 2023] 172.20.0.1:37510 Accepted
+[Thu Mar 30 12:01:42 2023] 172.20.0.1:37526 Accepted
+[Thu Mar 30 12:01:42 2023] 172.20.0.1:37510 Closing
+[Thu Mar 30 12:01:42 2023] 172.20.0.1:37526 Closing
+[Thu Mar 30 12:01:42 2023] 172.20.0.1:37532 Accepted
+[Thu Mar 30 12:01:42 2023] 172.20.0.1:37542 Accepted
+[Thu Mar 30 12:01:42 2023] 172.20.0.1:37532 Closing
+[Thu Mar 30 12:01:42 2023] 172.20.0.1:37542 Closing
+[Thu Mar 30 12:01:43 2023] 172.20.0.1:37558 Accepted
+[Thu Mar 30 12:01:43 2023] 172.20.0.1:37560 Accepted
+[Thu Mar 30 12:01:43 2023] 172.20.0.1:37558 Closing
+[Thu Mar 30 12:01:43 2023] 172.20.0.1:37560 Closing
+[Thu Mar 30 12:01:54 2023] Failed to listen on 0.0.0.0:8000 (reason: Address already in use)
+[Thu Mar 30 12:01:57 2023] 172.20.0.1:47478 Accepted
+[Thu Mar 30 12:01:57 2023] 172.20.0.1:47486 Accepted
+[Thu Mar 30 12:01:57 2023] 172.20.0.1:47478 Closing
+[Thu Mar 30 12:01:57 2023] 172.20.0.1:47486 Closing
+[Thu Mar 30 12:02:02 2023] Failed to listen on 0.0.0.0:8000 (reason: Address already in use)
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47496 Accepted
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47504 Accepted
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47496 Closing
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47504 Closing
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47518 Accepted
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47534 Accepted
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47518 Closing
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47534 Closing
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47540 Accepted
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47548 Accepted
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47540 Closing
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47548 Closing
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47560 Accepted
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47572 Accepted
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47560 Closing
+[Thu Mar 30 12:02:04 2023] 172.20.0.1:47572 Closing
+[Thu Mar 30 12:02:05 2023] 172.20.0.1:47584 Accepted
+[Thu Mar 30 12:02:05 2023] 172.20.0.1:47598 Accepted
+[Thu Mar 30 12:02:05 2023] 172.20.0.1:47584 Closing
+[Thu Mar 30 12:02:05 2023] 172.20.0.1:47598 Closing
+[Thu Mar 30 12:02:10 2023] Failed to listen on 0.0.0.0:8000 (reason: Address already in use)
+[Thu Mar 30 12:02:14 2023] 172.20.0.1:53570 Accepted
+[Thu Mar 30 12:02:14 2023] 172.20.0.1:53578 Accepted
+[Thu Mar 30 12:02:14 2023] 172.20.0.1:53578 Closing
+[Thu Mar 30 12:02:14 2023] 172.20.0.1:53570 Closing
+[Thu Mar 30 12:02:15 2023] 172.20.0.1:53580 Accepted
+[Thu Mar 30 12:02:15 2023] 172.20.0.1:53588 Accepted
+[Thu Mar 30 12:02:15 2023] 172.20.0.1:53580 Closing
+[Thu Mar 30 12:02:15 2023] 172.20.0.1:53588 Closing
+[Thu Mar 30 12:02:15 2023] 172.20.0.1:53594 Accepted
+[Thu Mar 30 12:02:15 2023] 172.20.0.1:53604 Accepted
+[Thu Mar 30 12:02:15 2023] 172.20.0.1:53594 Closing
+[Thu Mar 30 12:02:15 2023] 172.20.0.1:53604 Closing
+[Thu Mar 30 12:02:23 2023] Failed to listen on 0.0.0.0:8000 (reason: Address already in use)
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42798 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42802 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42798 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42802 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42810 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42822 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42810 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42822 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42834 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42838 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42834 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42838 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42842 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42848 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42842 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42848 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42862 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42866 Accepted
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42862 Closing
+[Thu Mar 30 12:02:44 2023] 172.20.0.1:42866 Closing
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39614 Accepted
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39628 Accepted
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39614 Closing
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39628 Closing
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39636 Accepted
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39638 Accepted
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39636 Closing
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39638 Closing
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39654 Accepted
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39662 Accepted
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39654 Closing
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39662 Closing
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39668 Accepted
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39684 Accepted
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39668 Closing
+[Thu Mar 30 12:03:41 2023] 172.20.0.1:39684 Closing
+[Thu Mar 30 12:03:53 2023] 172.20.0.1:44470 Accepted
+[Thu Mar 30 12:03:53 2023] 172.20.0.1:44484 Accepted
+[Thu Mar 30 12:03:53 2023] 172.20.0.1:44470 Closing
+[Thu Mar 30 12:03:53 2023] 172.20.0.1:44484 Closing
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44488 Accepted
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44494 Accepted
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44488 Closing
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44494 Closing
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44496 Accepted
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44512 Accepted
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44496 Closing
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44512 Closing
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44524 Accepted
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44538 Accepted
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44524 Closing
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44538 Closing
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44548 Accepted
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44558 Accepted
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44558 Closing
+[Thu Mar 30 12:03:54 2023] 172.20.0.1:44548 Closing
+[Thu Mar 30 12:04:21 2023] 172.20.0.1:53554 Accepted
+[Thu Mar 30 12:04:21 2023] 172.20.0.1:53558 Accepted
+[Thu Mar 30 12:04:21 2023] 172.20.0.1:53554 Closing
+[Thu Mar 30 12:04:21 2023] 172.20.0.1:53558 Closing
+[Thu Mar 30 12:04:21 2023] 172.20.0.1:53564 Accepted
+[Thu Mar 30 12:04:21 2023] 172.20.0.1:53570 Accepted
+[Thu Mar 30 12:04:21 2023] 172.20.0.1:53564 Closing
+[Thu Mar 30 12:04:21 2023] 172.20.0.1:53570 Closing
+[Thu Mar 30 12:04:24 2023] 172.20.0.1:53574 Accepted
+[Thu Mar 30 12:04:29 2023] 172.20.0.1:53574 Closing
+[Thu Mar 30 12:04:29 2023] 172.20.0.1:48858 Accepted
+[Thu Mar 30 12:04:29 2023] 172.20.0.1:48858 Closing
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40816 Accepted
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40830 Accepted
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40816 Closing
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40830 Closing
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40842 Accepted
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40844 Accepted
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40842 Closing
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40844 Closing
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40858 Accepted
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40868 Accepted
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40858 Closing
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40868 Closing
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40874 Accepted
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40876 Accepted
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40874 Closing
+[Thu Mar 30 12:05:42 2023] 172.20.0.1:40876 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40884 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40894 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40884 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40894 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40906 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40912 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40906 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40912 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40922 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40924 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40922 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40924 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40930 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40938 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40930 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40938 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40942 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40944 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40942 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40944 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40946 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40958 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40946 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40958 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40960 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40970 Accepted
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40960 Closing
+[Thu Mar 30 12:05:43 2023] 172.20.0.1:40970 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:40978 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:40990 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:40978 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:40990 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:40998 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41006 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:40998 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41006 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41022 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41028 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41022 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41028 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41044 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41058 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41044 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41058 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41074 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41078 Accepted
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41074 Closing
+[Thu Mar 30 12:05:44 2023] 172.20.0.1:41078 Closing
+[Thu Mar 30 12:05:45 2023] 172.20.0.1:41088 Accepted
+[Thu Mar 30 12:05:45 2023] 172.20.0.1:41092 Accepted
+[Thu Mar 30 12:05:45 2023] 172.20.0.1:41088 Closing
+[Thu Mar 30 12:05:45 2023] 172.20.0.1:41092 Closing
+[Thu Mar 30 12:05:47 2023] 172.20.0.1:41102 Accepted
+[Thu Mar 30 12:05:47 2023] 172.20.0.1:41110 Accepted
+[Thu Mar 30 12:05:47 2023] 172.20.0.1:41102 Closing
+[Thu Mar 30 12:05:47 2023] 172.20.0.1:41110 Closing
+[Thu Mar 30 12:05:47 2023] 172.20.0.1:42788 Accepted
+[Thu Mar 30 12:05:47 2023] 172.20.0.1:42802 Accepted
+[Thu Mar 30 12:05:47 2023] 172.20.0.1:42788 Closing
+[Thu Mar 30 12:05:47 2023] 172.20.0.1:42802 Closing
+[Thu Mar 30 12:05:48 2023] 172.20.0.1:42804 Accepted
+[Thu Mar 30 12:05:48 2023] 172.20.0.1:42806 Accepted
+[Thu Mar 30 12:05:48 2023] 172.20.0.1:42806 Closing
+[Thu Mar 30 12:05:48 2023] 172.20.0.1:42804 Closing
