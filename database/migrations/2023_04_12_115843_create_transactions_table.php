@@ -15,22 +15,22 @@ return new class extends Migration
     {
         Schema::create('transactions', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('symbol_id');
-            $table->foreign('symbol_id')->references('id')->on('symbols');
-            $table->string('quantity',255);
-            $table->string('Volume',255);
-            $table->string('Value',255);
-            $table->string('yesterday',255);
-            $table->string('first',255);
-            $table->string('last_transaction_amount',255);
-            $table->string('the_last_deal_change',255);
-            $table->string('last_transaction_percentage',255);
-            $table->string('final_price_quantity',255);
-            $table->string('final_price_change',255);
-            $table->string('final_price_percent',255);
-            $table->string('the_least',255);
-            $table->string('the_most',255);
-            $table->date('date');
+            $table->string('name',255)->nullable();
+            $table->string('company',255)->nullable();
+            $table->string('quantity',255)->nullable();
+            $table->string('volume',255)->nullable();
+            $table->string('value',255)->nullable();
+            $table->string('yesterday',255)->nullable();
+            $table->string('first',255)->nullable();
+            $table->string('last_transaction_amount',255)->nullable();
+            $table->string('the_last_deal_change',255)->nullable();
+            $table->string('last_transaction_percentage',255)->nullable();
+            $table->string('final_price_quantity',255)->nullable();
+            $table->string('final_price_change',255)->nullable();
+            $table->string('final_price_percent',255)->nullable();
+            $table->string('the_least',255)->nullable();
+            $table->string('the_most',255)->nullable();
+            $table->string('date',255)->nullable();
             $table->timestamps();
         });
     }

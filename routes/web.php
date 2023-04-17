@@ -14,4 +14,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::resource('paraf', ParafController::class);
-Route::redirect('/','paraf');
+Route::view('/','parafs.index');
